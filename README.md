@@ -1,16 +1,18 @@
-## Hi there 👋
+# 嗨，我是王小明 👋
 
-<!--
-**willy0929716513-debug/willy0929716513-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是中原大學的學生，目前正在學習計算機概論與程式設計。
 
-Here are some ideas to get you started:
+## 🙋 關於我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 系級：
+- 🌱 正在學習：Python、GitHub
+- 💡 感興趣主題：
+- 🎯 這學期的目標：
+
+## 💻 我的作品
+
+目前正在學習中，之後會把課堂作品放在 GitHub。
+
+## 📫 聯絡方式
+
+可以透過 GitHub 與我交流！
